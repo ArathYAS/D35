@@ -1,6 +1,10 @@
 # ENTRIELEVATED35ARATHY
 DATA SCIENCE CLASSES WORK
-![Q12](https://github.com/user-attachments/assets/3b0d195c-7fa3-405d-acaf-73fce846b875)
+![Q12](https://github.com/user-attachments/assets/3b0d195c-7fa3
+
+https://github.com/user-attachments/assets/68b549ae-fa7b-4669-82d6-d7dc02f0ef99
+
+-405d-acaf-73fce846b875)
 ![Q11](https://github.com/user-attachments/assets/a8dddd20-61f4-47b3-99a1-aa9609909845)
 ![Q10B](https://github.com/user-attachments/assets/960fb9b3-7582-42a6-9cb8-746c70f62630)
 ![Q10A](https://github.com/user-attachments/assets/085e2b60-1282-4271-8e94-6a6b8a1e4b94)
